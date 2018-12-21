@@ -1,0 +1,11 @@
+
+[1mFrom:[0m /home/dos-by-dos/projects/Rumblr/database.rb @ line 24 :
+
+    [1;34m19[0m: )
+    [1;34m20[0m: 
+    [1;34m21[0m: [1;34m#use this file to open pry[0m
+    [1;34m22[0m: 
+    [1;34m23[0m: 
+ => [1;34m24[0m: binding.pry
+    [1;34m25[0m: 
+
